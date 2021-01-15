@@ -8,6 +8,8 @@
 
 Описание данных:
 
+Для загрузки данных: kaggle competitions download -c recsys-iad-challenge
+
 tems.json:
 
 itemId - ID публикации
